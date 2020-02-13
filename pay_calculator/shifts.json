@@ -1,0 +1,95 @@
+{
+  "workers": [
+    {
+      "hourly wage": 16.5,
+      "id": 3,
+      "name": "Florence"
+    },
+    {
+      "hourly wage": 16.0,
+      "id": 1,
+      "name": "Ava"
+    },
+    {
+      "hourly wage": 9.5,
+      "id": 2,
+      "name": "Isaac"
+    }
+  ],
+  "checked out": [
+    {
+      "worker id": 2,
+      "time": "2017-04-17T12:00:00"
+    },
+    {
+      "worker id": 3,
+      "time": "2017-03-29T05:00:00"
+    },
+    {
+      "worker id": 3,
+      "time": "2017-03-27T23:00:00"
+    },
+    {
+      "worker id": 1,
+      "time": "2017-06-20T00:00:00"
+    },
+    {
+      "worker id": 1,
+      "time": "2017-06-14T12:00:00"
+    },
+    {
+      "worker id": 2,
+      "time": "2017-04-21T16:00:00"
+    },
+    {
+      "worker id": 3,
+      "time": "2017-03-22T03:00:00"
+    },
+    {
+      "worker id": 2,
+      "time": "2017-04-16T17:00:00"
+    },
+    {
+      "worker id": 1,
+      "time": "2017-06-16T17:00:00"
+    }
+  ],
+  "checked in": [
+    {
+      "worker id": 2,
+      "time": "2017-04-16T05:00:00"
+    },
+    {
+      "worker id": 1,
+      "time": "2017-06-16T09:00:00"
+    },
+    {
+      "worker id": 2,
+      "time": "2017-04-21T07:00:00"
+    },
+    {
+      "worker id": 3,
+      "time": "2017-03-27T13:00:00"
+    },
+    {
+      "worker id": 1,
+      "time": "2017-06-19T22:00:00"
+    },
+    {
+      "worker id": 3,
+      "time": "2017-03-28T20:00:00"
+    },
+    {
+      "worker id": 1,
+      "time": "2017-06-14T09:00:00"
+    },
+    {
+      "worker id": 3,
+      "time": "2017-03-22T01:00:00"
+    },
+    {
+      "worker id": 2,
+      "time": "2017-04-17T03:00:00"
+    }
+  ]
+}
